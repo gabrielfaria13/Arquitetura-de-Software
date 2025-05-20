@@ -1,5 +1,7 @@
 # Arquitetura-de-Software
 
+## Integrantes:
+Gabriel Faria, João Victor Salim, Lucas Garcia, Maisa Pires, Maria Eduarda Gonçalves, Miguel Vieira e Pedro Lucas Sousa
 
 # Processos de Negócio para BaaS e CaaS
 
